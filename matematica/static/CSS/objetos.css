@@ -1,0 +1,34 @@
+/**
+ *Objetos que estão dentro do box central.
+ */
+
+.conjunto {
+    height: auto;
+    width: auto;
+    border: solid 0px;
+    background-color: #BDBDBD;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px;
+    display: inline-block;
+    border-radius:50%;
+}
+
+#textConj {
+    position:relative;
+    color: #ffffff;
+    top: calc(50%);
+    transform: translateY(-50%);
+}
+
+.lixeira {
+    height: 100px;
+    width: 80px;
+    border: solid 0px;
+    text-align: center;
+    margin: 5px;
+    display: inline-block;  
+    top: calc(100% - 105px);
+    left: calc(100% - 85px);
+}
+

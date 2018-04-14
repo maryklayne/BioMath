@@ -1,0 +1,9 @@
+/**
+ *Popover utilizada para mostrar os elementos do conjunto.
+ */
+.popover-content {
+    overflow-x: scroll;
+    overflow-y: scroll;
+    width: 150px;
+    height: 60px;
+}

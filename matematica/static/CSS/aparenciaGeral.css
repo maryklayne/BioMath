@@ -1,0 +1,49 @@
+/**
+ *Aparencia do rodapé, tabelas, input, etc.
+ */
+footer {
+    background: #009ae1;
+    height: 49px;
+}
+
+.box {
+    background-color: white;
+    width: 100%;
+    height: calc(100vh - 104px);
+    display: inline-block;
+    float: right;
+}
+
+h2 {
+    background: none;
+    font-size: 16px;
+    color: #ffffff; 
+    text-align: center;
+    line-height:55px;
+    margin: 0px;
+    border-bottom: 1px solid #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight:normal;
+}
+
+#nameSet,  #buildSet, #elemSet{
+    height: 40px;
+    width: 75%;
+    margin: 1px;
+    display: inline-block;
+}
+
+#nameSet {
+    width: 20%;
+}
+
+#buildSet{
+    float: right;
+    width: 20%;
+    margin: 5px;
+}
+
+.adicionarConjunto{
+    margin: 3px;
+}

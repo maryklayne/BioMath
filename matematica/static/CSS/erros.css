@@ -1,0 +1,10 @@
+/** 
+ *Alertas de entradas inválidas, que aparecem na barra lateral.
+ */
+
+.erroInput {
+    margin: 3px;
+    padding: 3px;
+    border-left: 1px solid white;
+    color: white;
+}

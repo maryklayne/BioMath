@@ -1,0 +1,54 @@
+#put{
+  background-color: white;
+}
+
+#separa{
+  margin-left: -15px;
+  background:#c6ffc7;
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 1px;
+  bottom: 1px;
+  margin-left: 5px;
+
+
+}
+
+.navbar-fixed-top{
+    background:#047c46;
+
+}
+
+.navbar-brand{
+    background-color: #047c46;
+    color: white;
+}
+
+#modal_Ajuda_1{
+    color: #064901;
+}
+
+
+.alert{
+  position:absolute;
+  left:1200px;
+  top:60px;
+  /*z-index:-1*/
+}
+
+/*#resultado{*/
+  /*margin-left:0px;*/
+  /*background-color: #000;*/
+  /*border-top-style: groove;*/
+  /*border-right-style: groove;*/
+  /*border-bottom-style: groove;*/
+  /*border-left-style: groove;*/
+  /*border-width:1px;*/
+/*}*/
+
+/*.dashboard-panel-6 {*/
+   /*width: 74.5%;*/
+/*}*/
+
+
