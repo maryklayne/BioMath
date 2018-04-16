@@ -2,12 +2,12 @@
  *Aparencia do rodapé, tabelas, input, etc.
  */
 footer {
-    background: #009ae1;
+    background: #519e4b;
     height: 49px;
 }
 
 .box {
-    background-color: white;
+    background-color: #bbefba;
     width: 100%;
     height: calc(100vh - 104px);
     display: inline-block;
@@ -17,7 +17,7 @@ footer {
 h2 {
     background: none;
     font-size: 16px;
-    color: #ffffff; 
+    color: #ffffff;
     text-align: center;
     line-height:55px;
     margin: 0px;
